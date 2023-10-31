@@ -48,3 +48,8 @@
     - Depois
 
         <img src="https://pqbnoyezospypjajwdzi.supabase.co/storage/v1/object/public/thinktalk/uploads/9a7e3727-c278-4cb2-8c19-9e795c552579">
+
+
+ - Além de rotação, as folhas da árvore podem ser "pintadas" de red/black para o balanceamento da árvore.
+
+ <hr>
